@@ -1,7 +1,11 @@
 ## Hi there iam Parham Bt 👋
 
 
-I am Parham Bostani, a programmer and a Linux fan who is interested in building smart machines using Python.
+I am Parham Bostani , a geeck
+
+- a programmer  who is interested in building smart machines using Python.
+- a big fan of Linux and The ideology of open source software
+
 
 Activity and learning in the fields of artificial intelligence and machine vision and data science and always interested in learning new things
 
