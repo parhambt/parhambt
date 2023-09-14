@@ -5,9 +5,10 @@ I am Parham Bostani , a geeck
 
 - a programmer  who is interested in building smart machines using Python.
 - a big fan of Linux and The ideology of open source software
-
+- i am living in iran and i am 17 years old 
 
 Activity and learning in the fields of artificial intelligence and computer vision and data science and always interested in learning new things
+
 
 
 ### language and skills
