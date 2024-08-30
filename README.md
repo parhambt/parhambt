@@ -1,4 +1,4 @@
-![pandas](https://github.com/user-attachments/assets/993497aa-40b5-4f97-b1a3-d4225715288b)## Hi there iam Parham Bostani , a geeck 👋
+## Hi there iam Parham Bostani , a geeck 👋
 
 i am living in iran and i am 17 years old , using Python for 3 years
 
@@ -13,14 +13,5 @@ Activity and learning in the fields of artificial intelligence and computer visi
 
 ### language and skills
 
-Python                    Scikit-Learn                    TensorFlow                    Open-Cv                    Numpy                    Linux                    PostgreSQL                    Pandas                         
-
-
-
-
-
-![icons8-python-48](https://github.com/parhambt/parhambt/assets/124530126/1cbb1e94-d524-4cfa-b036-dee2cfb26ffb)     ![120px-Scikit_learn_logo_small svg](https://github.com/parhambt/parhambt/assets/124530126/133dde52-9615-4b73-ba8e-cc3ccd86912a)   ![icons8-tensorflow-48](https://github.com/parhambt/parhambt/assets/124530126/feb527eb-96c1-4fe9-9e32-04df267d6a7a)  ![icons8-opencv-48](https://github.com/parhambt/parhambt/assets/124530126/c904ea84-5fd7-4b03-a359-f7410d0c4d41)  ![icons8-numpy-48](https://github.com/parhambt/parhambt/assets/124530126/cb262607-c62e-4aae-853c-04d9d4754fb6)    ![icons8-linux-48](https://
-github.com/parhambt/parhambt/assets/124530126/8aa2fc77-50a8-492b-972d-c11f04dfb387)
+![icons8-python-48](https://github.com/parhambt/parhambt/assets/124530126/1cbb1e94-d524-4cfa-b036-dee2cfb26ffb)     ![120px-Scikit_learn_logo_small svg](https://github.com/parhambt/parhambt/assets/124530126/133dde52-9615-4b73-ba8e-cc3ccd86912a)   ![icons8-tensorflow-48](https://github.com/parhambt/parhambt/assets/124530126/feb527eb-96c1-4fe9-9e32-04df267d6a7a)  ![icons8-opencv-48](https://github.com/parhambt/parhambt/assets/124530126/c904ea84-5fd7-4b03-a359-f7410d0c4d41)  ![icons8-numpy-48](https://github.com/parhambt/parhambt/assets/124530126/cb262607-c62e-4aae-853c-04d9d4754fb6)    ![icons8-linux-48](https://github.com/parhambt/parhambt/assets/124530126/8aa2fc77-50a8-492b-972d-c11f04dfb387)
 <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-
-
